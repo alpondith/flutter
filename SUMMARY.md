@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Layouts](layouts/README.md)
+  * [Container](layouts/container.md)
+  * [Column](layouts/column.md)
+  * [Row](layouts/row.md)
 * [Resource](resource.md)
 
 ## Examples
@@ -10,8 +14,3 @@
 * [Container Example](examples/container-example.md)
 
 ## Widgets
-
-* [Layouts](widgets/layouts/README.md)
-  * [Container](widgets/layouts/container.md)
-  * [Column](widgets/layouts/column.md)
-  * [Row](widgets/layouts/row.md)
