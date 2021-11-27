@@ -5,6 +5,7 @@
   * [Container](layouts/container.md)
   * [Column](layouts/column.md)
   * [Row](layouts/row.md)
+  * [Expanded](layouts/expanded.md)
 * [Resource](resource.md)
 
 ## Examples
