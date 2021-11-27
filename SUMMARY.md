@@ -5,4 +5,5 @@
 
 ## Examples
 
+* [Starting Code](examples/starting-code.md)
 * [Poem](examples/poem.md)
