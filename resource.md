@@ -10,3 +10,7 @@
 
 * [Canva](https://www.canva.com)
 * [Remove bg](https://www.remove.bg)
+
+### Color Generator
+
+* [Coolors](https://coolors.co)
